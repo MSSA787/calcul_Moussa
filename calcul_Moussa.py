@@ -25,7 +25,7 @@ def calcul(notes, nom, coef):
 
 
 moyenne = calcul(notes, nom, coef)
-print(f"\nVotre moyenne pondérée est : {moyenne:.2f}/20")
+print(f"\nVotre moyenne pondÃ©rÃ©e est : {moyenne:.2f}/20")
 
 
 def get_color(value):
